@@ -1,0 +1,1 @@
+Please ensure that you have set up a User DSN as described in pages 537-540 before running the project in this folder.

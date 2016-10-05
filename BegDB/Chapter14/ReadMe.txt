@@ -1,0 +1,1 @@
+Please ensure that you have added an ID3 table to your Nwind.mdb database as described in pages 719 to 721 before attempting to run ID3.vbp.

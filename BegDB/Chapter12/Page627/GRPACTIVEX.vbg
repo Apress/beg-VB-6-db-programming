@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=dataCtl.vbp
+StartupProject=hostPrj.vbp

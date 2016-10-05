@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=controlPrj.vbp
+StartupProject=ctlHost.vbp
